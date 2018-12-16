@@ -1,3 +1,8 @@
+---
+title: "HELLO HOWDY!!!"
+date: 2018-12-16
+---
+
 I welcome you to my Leom's Hub, where we will be discussing on the life and the way of becoming a developer.
 
 I am a Csc Undergraduate, i develop passion in the late 2015. Due to financial instability, i couldn't help
